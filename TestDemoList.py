@@ -8,3 +8,7 @@ for i in range(1,5):
     print i
 
 
+url = 'www.test.com/web/tologin/'
+
+print url.split('/')
+print url.split('/')[-1]
