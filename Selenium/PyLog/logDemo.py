@@ -87,16 +87,6 @@ except:
 
 
 
-#
-# start = datetime.date(2017,3,28)
-# end = datetime.date(2017,9,27)
-#
-# days = (end - start).days
-#
-# weeks = days/7.0
-#
-# print days
-# print weeks
 
 
 
